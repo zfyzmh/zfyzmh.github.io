@@ -69,7 +69,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '子非鱼的个人站',
+        title: '子非鱼',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
