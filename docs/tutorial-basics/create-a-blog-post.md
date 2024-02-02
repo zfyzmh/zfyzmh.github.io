@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# Create a Blog Post自动化测试
+# Create a Blog Post自动化测试2
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
