@@ -128,6 +128,7 @@ const config = {
         require.resolve("@easyops-cn/docusaurus-search-local"),
         {
           // Options here
+          language: ["zh", "en"],
         },
       ],
       [
