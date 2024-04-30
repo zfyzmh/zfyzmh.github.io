@@ -133,8 +133,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} 子非鱼, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: prismThemes.oneLight,
+        darkTheme: prismThemes.oneDark,
+        additionalLanguages:['csharp']
       },
     }),
     plugins: [
