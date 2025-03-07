@@ -4,7 +4,7 @@
         <title>子非鱼 Blog</title>
         <link>https://zfyzmh.github.io/blog</link>
         <description>子非鱼 Blog</description>
-        <lastBuildDate>Fri, 07 Mar 2025 10:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 10:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[使用blazor server和signalr实现在线五子棋]]></title>
             <link>https://zfyzmh.github.io/blog/五子棋</link>
             <guid>https://zfyzmh.github.io/blog/五子棋</guid>
-            <pubDate>Fri, 07 Mar 2025 10:11:06 GMT</pubDate>
+            <pubDate>Fri, 07 Mar 2025 10:32:52 GMT</pubDate>
             <description><![CDATA[前些天女朋友邀请我一起玩微信小程序里的某个五子棋游戏,经常进不去房间且广告极多,令人生厌.于是就有了这个练手小项目]]></description>
             <content:encoded><![CDATA[<p>前些天女朋友邀请我一起玩微信小程序里的某个五子棋游戏,经常进不去房间且广告极多,令人生厌.于是就有了这个练手小项目</p>
 <p><a href="https://github.com/zfyzmh/BlazorGame" target="_blank" rel="noopener noreferrer">github仓库地址</a></p>
@@ -51,7 +51,7 @@
             <title><![CDATA[江南与师姐]]></title>
             <link>https://zfyzmh.github.io/blog/江南与师姐</link>
             <guid>https://zfyzmh.github.io/blog/江南与师姐</guid>
-            <pubDate>Fri, 07 Mar 2025 10:11:06 GMT</pubDate>
+            <pubDate>Fri, 07 Mar 2025 10:32:52 GMT</pubDate>
             <description><![CDATA[江南依旧是我喜欢的作家,如果这段文字触动了你，你可以去看看他的作品]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>江南依旧是我喜欢的作家,如果这段文字触动了你，你可以去看看他的作品</p>
